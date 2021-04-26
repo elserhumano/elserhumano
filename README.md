@@ -13,7 +13,7 @@ I'm passionate, more than twenty-seven years in love with the technology! DevOps
 
 🧰 My toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/vagrant.svg" width="50" height="50" />
 
 <!--
 **elserhumano/elserhumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
