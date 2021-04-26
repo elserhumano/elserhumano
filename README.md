@@ -7,9 +7,13 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/falvarez_uy?label=Follow%20me%20on%20Twitter&style=social)
 
 
-I'm passionate, more than twenty-seven years in love with the technology! DevOps constantly evolving and deploying ...
+I'm passionate, more than twenty-seven years in love with the technology! DevOps constantly evolutioning and self-deploying ...
 
 ---
+
+🧰 My toolbox
+
+<img src="https://worldvectorlogo.com/es/logo/puppet-1" alt="Puppet logo" width="50" height="50" />
 
 <!--
 **elserhumano/elserhumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
