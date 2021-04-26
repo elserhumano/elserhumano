@@ -15,6 +15,12 @@ I'm passionate, more than twenty-seven years in love with the technology! DevOps
 
 <img src="https://cdn.worldvectorlogo.com/logos/puppet-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/vagrant.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
 
+---
+
+## &#x1f4c8; GitHub Stats
+
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=elserhumano)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **elserhumano/elserhumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
