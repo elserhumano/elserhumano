@@ -1,5 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fernando Alvarez! 😄
 
+![GitHub followers](https://img.shields.io/github/followers/elserhumano?label=Follow%20me%20on%20GitHub&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/falvarez_uy?label=Follow%20me%20on%20Twitter&style=social)
+
 <!--
 **elserhumano/elserhumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
