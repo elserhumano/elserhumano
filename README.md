@@ -7,7 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/falvarez_uy?label=Follow%20me%20on%20Twitter&style=social)
 
 
-I'm passionate, more than thirty-four years in love with the technology! DevOps constantly evolutioning and self-deploying ...
+# 34+ years of tech evolution. Architecting the future through DevOps and continuous self-improvement.
 
 ---
 
