@@ -7,7 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/falvarez_uy?label=Follow%20me%20on%20Twitter&style=social)
 
 
-# 34+ years of tech evolution. Architecting the future through DevOps and continuous self-improvement.
+34+ years of tech evolution. Architecting the future through DevOps and continuous self-improvement.
 
 ---
 
