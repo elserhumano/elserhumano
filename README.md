@@ -1,4 +1,4 @@
-### Hi there <img src="https://githubusercontent.com" width="30px">, I am Fernando Alvarez! 😄
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fernando Alvarez! 😄
 
 ---
 
