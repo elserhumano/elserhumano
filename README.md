@@ -3,7 +3,7 @@
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/elserhumano?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/elserhumano)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=social&logo=linkedin)](https://linkedin.com/in/fernandoealvareznoya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://linkedin.com/in/fernandoealvareznoya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/falvarez_uy?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/falvarez_uy)
 
 34+ years of tech evolution. Architecting the future through DevOps and continuous self-improvement.
