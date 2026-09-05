@@ -8,6 +8,8 @@
 
 34+ years of tech evolution. Architecting the future through DevOps and continuous self-improvement.
 
+![Profile Views](https://komarev.com/ghvc/?username=elserhumano&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 ---
 
 ## 🧰 My toolbox
